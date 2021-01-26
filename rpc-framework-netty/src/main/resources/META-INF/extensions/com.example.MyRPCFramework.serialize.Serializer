@@ -1,0 +1,2 @@
+kyro=com.example.MyRPCFramework.serialize.kyro.KryoSerializer
+protostuff=com.example.MyRPCFramework.serialize.protostuff.ProtostuffSerializer
